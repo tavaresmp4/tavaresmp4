@@ -1,5 +1,11 @@
-# 👋 Olá!!
-- Eu sou o Tavares, um desenvolvedor de bot's para o discord!
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there,+I'm+Fyber!&center=true&width=380&height=45">
+  <br />
+  <a href="https://github.com/atlasfyber"> 
+    <img alt="followers" title="Follow Me" src="https://img.shields.io/github/followers/atlasfyber?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow%20me" />
+  </a>
+</div>
+<br />
 
 ## 🔖 Alguns fatos sobre mim:
 - Eu faço bot's para o discord a 2/3 anos.
